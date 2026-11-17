@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.8",
+	"EngineAssociation": "{117F13D1-4C02-6FB8-E241-2E9C5198EFD5}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -14,11 +14,6 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		}
 	]
 }
